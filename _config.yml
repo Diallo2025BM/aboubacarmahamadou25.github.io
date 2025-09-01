@@ -1,0 +1,31 @@
+title: "Aboubacar Mahamadou"
+logo: "/assets/img/profile.png"   # Facultatif : photo de profil
+description: >- 
+  Statisticien | Étudiant en Finance & Comptabilité | Analyste de données.
+  Passionné par l'analyse statistique, la data science et la modélisation.
+
+author:
+  name: "Aboubacar Mahamadou"
+  email: "aboubacarmahamadou9638@gmail.com"
+  phone: "+223 96 38 16 26"
+  linkedin: "https://www.linkedin.com/in/tonprofil"   # mets ton vrai lien LinkedIn
+  github: "https://github.com/aboubacarmahamadou"
+
+theme: jekyll-theme-minimal
+
+nav:
+  - name: "Accueil"
+    link: "/"
+  - name: "CV"
+    link: "/cv"
+  - name: "Projets"
+    link: "/projets"
+  - name: "Contact"
+    link: "/contact"
+
+markdown: kramdown
+
+google_analytics: ""
+
+url: "https://aboubacarmahamadou.github.io"
+baseurl: ""
